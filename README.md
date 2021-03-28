@@ -1,4 +1,4 @@
-This is the Engligh version of my personal homepage: <https://dgck81lnn.github.io/home>. That page features images
+This is the English version of my homepage: <https://dgck81lnn.github.io/home>. That page features images
 while this README has more friendly links (and every link to Wikipedia has an alternate link which is accessible in
 and only in Mainland China).
 
@@ -21,7 +21,7 @@ My father being a software engineer, I began to learn coding at quite a young ag
   * Python, Ruby, Node.js &mdash; convenient coding ecosystems
 
     I enjoy ~~creating useless programs~~ use coding to solve problems I encounter in my other hobbies (music, music
-    games) as well, and package managers really make that much easier.
+    games) as well, and package managers make that much easier.
 
   * [Esoteric programming languages][1] ([alternate link][2])
 
@@ -31,8 +31,8 @@ My father being a software engineer, I began to learn coding at quite a young ag
   * Unity
 
     Got to know about Unity from the [*Dancing Line*][8] ([alternate information in Chinese][9]) [fan labor][10]
-    ([alternate link][11]) community, and have dedicated in DL fan labor development the whole time. I hope one day I
-    can create an easy-to-use fan level developing environment that more people can use.
+    ([alternate link][11]) community, and have dedicated to DL fan labor development the whole time. I hope one day I
+    can create an easy-to-use fan-level developing environment that more people can use.
 
 </details>
 
@@ -49,7 +49,7 @@ translation][25]). "Innocent Souls" ([tag on Derpibooru][26]) is my [ponysona][2
 
 ## Contact me / More about me
 
-You can reach me using the email address provided on my GitHub profile. Unfortunately I currently haven't post any
+You can reach me using the email address provided on my GitHub profile. Unfortunately, I currently haven't posted any
 extra information about myself in English. **To those who understand Chinese:**
 
   * You can subscribe to [my channel on Bilibili][28] where I occasionally post videos about *Minecraft*, *Dancing
