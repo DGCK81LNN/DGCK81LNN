@@ -2,7 +2,7 @@ This is the English version of my homepage: <https://dgck81lnn.github.io/home>. 
 while this README has more friendly links (and every link to Wikipedia has an alternate link which is accessible in
 and only in Mainland China).
 
-# Hello, I'm DGCK81LNN, an ordinary Chinese senior high school student.
+# 👋 Hello, I'm DGCK81LNN, an ordinary Chinese senior high school student.
 
 ## My interests are...
 
