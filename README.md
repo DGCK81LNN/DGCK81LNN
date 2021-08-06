@@ -48,12 +48,11 @@ Got to know the show from the fan game [*Pony Town*][23] and the fan fiction *Th
 
 ## Contact me / More about me
 
-You can reach me using the **email address** provided on my GitHub profile. Unfortunately, I currently haven't posted any
-extra information about myself in English.
+* You can reach me using the **email address** provided on my GitHub profile.
 
-Those who understand Chinese can subscribe to [my channel on Bilibili][28] where I occasionally post videos about *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.
+* You can also contact me via **QQ** if you have an account: 3470524928.
 
-You can also contact me via QQ (3470524928) if you have an account.
+* Those who understand Chinese can subscribe to [my channel on Bilibili][28] where I occasionally post videos about *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.
 
 Hope I can become friends with you!
 
