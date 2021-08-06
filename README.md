@@ -1,7 +1,7 @@
 This is the English version of my homepage: <https://dgck81lnn.github.io/home>. That page features images
 while this README has more links.
 
-# 👋 Hello, I'm DGCK81LNN, an ordinary Chinese senior high school student.
+# 👋 Hello, I'm DGCK81LNN, an ordinary Chinese senior middle school student.
 
 ## My interests are...
 
