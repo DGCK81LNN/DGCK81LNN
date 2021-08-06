@@ -52,7 +52,7 @@ Got to know the show from the fan game [*Pony Town*][23] and the fan fiction *Th
 
 * You can also contact me via **QQ** if you have an account: 3470524928.
 
-* Those who understand Chinese can subscribe to [my channel on Bilibili][28] where I occasionally post videos about *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.
+* Those who understand Chinese can subscribe to [my channel on Bilibili][28] <del>where I occasionally post videos about *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.</del> <ins>(not lately)</ins>
 
 Hope I can become friends with you!
 
