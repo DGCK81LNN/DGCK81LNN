@@ -30,8 +30,8 @@ My father being a software engineer, I began to learn coding at quite a young ag
   * Unity
 
     I got to know about Unity from the [*Dancing Line*][8] ([alternate information in Chinese][9]) [fan labor][10]
-    community and have tried creating my own level. I failed though, due to the fact that the currently existing open-source
-    DLFM template projects fail to satisfy me. I have been trying to create a template project (or rather, a developing
+    community and have tried creating my own level. I failed though, because the currently existing open-source DLFM
+    template projects fail to satisfy me. I have been trying to create a template project (or rather, a developing
     environment) that is easier to use and whose code is more orderly and extensible.
 
 </details>
