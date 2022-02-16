@@ -22,29 +22,29 @@ My father being a software engineer, I began to learn coding at quite a young ag
     I enjoy ~~creating useless programs~~ using coding to solve problems I encounter in my other hobbies (music, music
     games) as well, and package managers really make things easier.
 
-  * [Esoteric programming languages][1]
+  * [Esoteric programming languages][esolang]
 
-    "Esolangs" test the boundaries of the concept of "programming languages". My favorite esolangs are [Brainfuck][3],
-    [Befunge-93][5] and [Wenyan][7].
+    "Esolangs" test the boundaries of the concept of "programming languages". My favorite esolangs are [Brainfuck][brainf],
+    [Befunge-93][befunge] and [Wenyan][wenyan].
 
   * Unity
 
-    I got to know about Unity from the [*Dancing Line*][8] ([alternate information in Chinese][9]) [fan labor][10]
+    I got to know about Unity from the [*Dancing Line*][dlwiki] ([alternate information in Chinese][dlzh]) [fan labor][fanlabor]
     community and have tried creating my own level. I failed though, because the currently existing open-source DLFM
     template projects fail to satisfy me. I have been trying to create a template project (or rather, a developing
     environment) that is easier to use and whose code is more orderly and extensible.
 
 </details>
 
-### [Music games][12] (MUG) and MUG-like games
+### [Music games][mug] (MUG) and MUG-like games
 
-Got into the community from the MUG-like game [*Dancing Line*][8] ([alternate information in Chinese][9]), and later
-tried *Malody*, [*osu!*][15], *Phigros* ([information in Chinese][17]), and *A Dance of Fire and Ice* ([information
-in Chinese][19]).
+Got into the community from the MUG-like game [*Dancing Line*][dlwiki] ([alternate information in Chinese][dlzh]), and later
+tried *Malody*, [*osu!*][osu], *Phigros* ([information in Chinese][phigr]), and *A Dance of Fire and Ice* ([information
+in Chinese][adofai]).
 
-### [*My Little Pony: Friendship Is Magic*][20] ([alternate information in Chinese][22])
+### [*My Little Pony: Friendship Is Magic*][mlpfim] ([alternate information in Chinese][mlpfimzh])
 
-Got to know the show from the fan game [*Pony Town*][23] and the fan fiction *The Last Pony on Earth*. "Innocent Souls" is my [ponysona][27] and I sometimes do draw fan art.
+Got to know the show from the fan game [*Pony Town*][ponytown] and the fan fiction *The Last Pony on Earth*. "Innocent Souls" is my [ponysona][ponysona] and I sometimes do draw fan art.
 
 ## Contact me / More about me
 
@@ -52,27 +52,23 @@ Got to know the show from the fan game [*Pony Town*][23] and the fan fiction *Th
 
 * You can also contact me via **QQ** if you have an account: 3470524928.
 
-* Those who understand Chinese can subscribe to [my channel on Bilibili][28] <del>where I occasionally post videos about *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.</del> <ins>(not lately)</ins>
+* Those who understand Chinese can subscribe to [my channel on Bilibili][mybili] <del>where I occasionally post videos about *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.</del> <ins>(not lately)</ins>
 
 Hope I can become friends with you!
 
-<!-- TODO: make link reference names descriptive, rather than using numbers -->
-[1]: https://en.wikipedia.org/wiki/Esoteric_programming_language
-[3]: https://en.wikipedia.org/wiki/Brainfuck
-[5]: https://en.wikipedia.org/wiki/Befunge
-[7]: https://github.com/wenyan-lang/wenyan
-[8]: https://dancingline.fandom.com/wiki/Dancing_Line_Wiki
-[9]: https://zh.moegirl.org.cn/跳舞的线
-[10]: https://en.wikipedia.org/wiki/Fan_labor
-[12]: https://en.wikipedia.org/wiki/Music_video_game
-[15]: https://en.wikipedia.org/wiki/Osu!
-[17]: https://zh.moegirl.org.cn/Phigros
-[19]: https://zh.moegirl.org.cn/冰与火之舞
-[20]: https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic
-[21]: https://en.wikipedia.iwiki.eu.org/wiki/My_Little_Pony:_Friendship_Is_Magic
-[22]: https://zh.moegirl.org.cn/彩虹小马
-[23]: https://pony.town/about
-[27]: https://en.wikifur.com/wiki/Ponysona
-[28]: https://space.bilibili.com/328066747
-[29]: https://zh.wikipedia.org/wiki/User:DGCK81LNN
-[30]: https://zh.wikipedia.iwiki.eu.org/wiki/User:DGCK81LNN
+[esolang]: https://en.wikipedia.org/wiki/Esoteric_programming_language
+[brainf]: https://en.wikipedia.org/wiki/Brainfuck
+[befunge]: https://en.wikipedia.org/wiki/Befunge
+[wenyan]: https://github.com/wenyan-lang/wenyan
+[dlwiki]: https://dancingline.fandom.com/wiki/Dancing_Line_Wiki
+[dlzh]: https://zh.moegirl.org.cn/跳舞的线
+[fanlabor]: https://en.wikipedia.org/wiki/Fan_labor
+[mug]: https://en.wikipedia.org/wiki/Music_video_game
+[osu]: https://en.wikipedia.org/wiki/Osu!
+[phigr]: https://zh.moegirl.org.cn/Phigros
+[adofai]: https://zh.moegirl.org.cn/冰与火之舞
+[mlpfim]: https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic
+[mlpfimzh]: https://zh.moegirl.org.cn/彩虹小马
+[ponytown]: https://pony.town/about
+[ponysona]: https://en.wikifur.com/wiki/Ponysona
+[mybili]: https://space.bilibili.com/328066747
