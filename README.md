@@ -74,4 +74,6 @@ Hope I can become friends with you! 🤝
 [ponysona]: https://en.wikifur.com/wiki/Ponysona
 [mybili]: https://space.bilibili.com/328066747
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGCK81LNN&layout=compact&exclude_repo=LoveWithRichard,hug)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGCK81LNN)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DGCK81LNN&exclude_repo=LoveWithRichard,hug&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
