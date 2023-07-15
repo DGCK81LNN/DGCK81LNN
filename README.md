@@ -1,4 +1,4 @@
-# 👋 Hello, I'm DGCK81LNN, an ordinary Chinese senior middle school student.
+# 👋 Hello, I'm DGCK81LNN, an ordinary Chinese student.
 
 ## My interests are...
 
