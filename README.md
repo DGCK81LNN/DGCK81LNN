@@ -51,6 +51,7 @@ I did skip some of the episodes and I haven't watched it a second time &mdash; I
   * I have played *Undertale* and *Deltarune* Chapter 1-2
   * I've been playing *Genshin Impact* on the **Asia** server, join me! UID: 857179228
   * I've been playing [*Alice In Cradle*][aic]<sup>[[zh]][aiczh]</sup> which is still in beta
+  * I've just started to play *Blue Archive* on the **Chinese** server
   * I'm a fan of [Neuro-sama][neurosama]<sup>[[twitch]][neurosamatwitch]</sup>, the AI VTuber.
   * I have some basic understanding of the [constructed languages][conlang] [*Lojban*][lojban], [*Toki Pona*][tokipona] and
     [*Shidinn*][shidinn]<sup>[[zh]][shidinnzh]</sup>.
@@ -64,8 +65,7 @@ I did skip some of the episodes and I haven't watched it a second time &mdash; I
   * Try **Twitter** too, but I doubt if I will see notifications promptly due to my location (China Mainland):
     [@DGCK81LNN][mytwitter]
 
-  * Those who understand Chinese can subscribe to [my channel on Bilibili][mybili] <del>where I occasionally post videos about
-    *Minecraft*, *Dancing Line* fan labor and *My Little Pony*.</del> <ins>(not lately, sadly)</ins>
+  * Those who understand Chinese can subscribe to [my channel on Bilibili][mybili] where I occasionally post videos.
 
 Don't hesitate to get in touch with me for anything you have in mind, or just a chat if you like! 🤝
 
