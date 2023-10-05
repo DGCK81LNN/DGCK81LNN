@@ -99,4 +99,4 @@ Don't hesitate to get in touch with me for anything you have in mind, or just a 
 
 [![Anurag's GitHub stats](https://github-readme-stats-five-sigma.vercel.app/api?username=DGCK81LNN&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-five-sigma.vercel.app/api/top-langs/?layout=compact&username=DGCK81LNN&exclude_repo=LoveWithRichard,hug&langs_count=6&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-sigma.vercel.app/api/top-langs/?layout=compact&username=DGCK81LNN&exclude_repo=LoveWithRichard,hug&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
