@@ -97,6 +97,6 @@ Don't hesitate to get in touch with me for anything you have in mind, or just a 
 [mytwitter]: https://twitter.com/DGCK81LNN
 [mybili]: https://space.bilibili.com/328066747
 
-[![Anurag's GitHub stats](https://github-readme-stats-five-sigma.vercel.app/api?username=DGCK81LNN&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGCK81LNN&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-five-sigma.vercel.app/api/top-langs/?layout=compact&username=DGCK81LNN&exclude_repo=LoveWithRichard,hug&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DGCK81LNN&exclude_repo=LoveWithRichard,hug&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
