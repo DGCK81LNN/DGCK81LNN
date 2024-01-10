@@ -58,7 +58,7 @@ I did skip some of the episodes and I haven't watched it a second time &mdash; I
 
 ## Contact me / More about me
 
-  * You can reach me using the **email address** shown on my GitHub profile.
+  * You can reach me at **`triluolnn@163.com`**.
 
   * Contact me via **Tencent QQ** if you have an account: 3470524928.
 
