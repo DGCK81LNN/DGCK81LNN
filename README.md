@@ -62,8 +62,7 @@ I did skip some of the episodes and I haven't watched it a second time &mdash; I
 
   * Contact me via **Tencent QQ** if you have an account: 3470524928.
 
-  * ~~Try **Twitter** too, but I doubt if I will see notifications promptly due to my location (China Mainland):
-    [@DGCK81LNN][mytwitter]~~ (no; i am now certain i wiil **not** see twitter notifications promptly)
+  * [Friend me on MEGA.nz](https://vudrux.site/a_userdir/S34024/my_mega_invitation_link.url).
 
   * Those who understand Chinese can subscribe to [my channel on Bilibili][mybili] where I occasionally post videos
     and/or stream.
