@@ -99,3 +99,4 @@ Don't hesitate to get in touch with me for anything you have in mind, even just 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DGCK81LNN&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DGCK81LNN&exclude_repo=LoveWithRichard,hug&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DGCK81LNN&layout=compact&langs_count=12)
