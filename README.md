@@ -62,7 +62,7 @@ I did skip some of the episodes and I haven't watched it a second time &mdash; I
 
   * Contact me via **Tencent QQ** if you have an account: 3470524928.
 
-  * [Friend me on MEGA.nz](https://vudrux.site/a_userdir/S34024/my_mega_invitation_link.url).
+  * [Join my Discord server](https://discord.gg/2QGq4hvcK4) where you can reach me via a message relaying bot in the `#shidinn` channel.
 
   * Those who understand Chinese can subscribe to [my channel on Bilibili][mybili] where I occasionally post videos
     and/or stream.
