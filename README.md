@@ -37,8 +37,8 @@ My father being a software engineer, I began to learn coding at quite a young ag
 ### [Music (rhythm) games][mug] (MUG) and MUG-like games
 
 Brought to the Chinese MUG community by the MUG-like game [*Dancing Line*][dlwiki]<sup>[[zh]][dlzh]</sup>, I later tried
-*Malody*, [*osu!*][osu], *Phigros*<sup>[[zh]][phigr]</sup>, and *A Dance of Fire and Ice*<sup>[[zh]][adofai]</sup>. *osu!*
-is the MUG I play the most.
+*Malody*, [*osu!*][osu], *Phigros*<sup>[[zh]][phigr]</sup>, and *A Dance of Fire and Ice*<sup>[[zh]][adofai]</sup>. I've
+also been playing *Project Sekai* since the launch of its **Chinese** server.
 
 ### [*My Little Pony: Friendship Is Magic*][mlpfim]<sup>[[zh]][mlpfimzh]</sup>
 
@@ -51,7 +51,7 @@ I did skip some of the episodes and I haven't watched it a second time &mdash; I
   * I have played *Undertale* and *Deltarune* Chapter 1-2
   * I've been playing *Genshin Impact* on the **Asia** server, join me! UID: 857179228
   * I've been playing [*Alice In Cradle*][aic]<sup>[[zh]][aiczh]</sup> which is still in beta
-  * I've just started to play *Blue Archive* on the **Chinese** server
+  * I (used to) play *Blue Archive* (**Chinese** server) (but hardly playing anymore recently)
   * I'm a fan of [Neuro-sama][neurosama]<sup>[[twitch]][neurosamatwitch]</sup>, the AI VTuber.
   * I have some basic understanding of the [constructed languages][conlang] [*Lojban*][lojban], [*Toki Pona*][tokipona] and
     [*Shidinn*][shidinn]<sup>[[zh]][shidinnzh]</sup>.
