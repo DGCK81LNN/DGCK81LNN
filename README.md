@@ -96,6 +96,17 @@ Don't hesitate to get in touch with me for anything you have in mind, even just 
 [mytwitter]: https://twitter.com/DGCK81LNN
 [mybili]: https://space.bilibili.com/328066747
 
-[![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true)](https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true&include_all_commits=true&theme=default_repocard)
-[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=DGCK81LNN&layout=compact&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=DGCK81LNN&layout=compact&langs_count=8)
-[![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=DGCK81LNN&layout=compact&langs_count=12&display_format=percent)](https://wakatime.com/@DGCK81LNN)
+## [Coding Stats](https://github.com/stats-organization/github-stats-extended "Powered by GitHub Stats Extended")
+
+<picture>
+  <source media="(prefers-color-scheme:dark)" srcset="https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true&theme=github_dark_dimmed">
+  <img alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme:dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=DGCK81LNN&layout=compact&langs_count=8&theme=github_dark_dimmed">
+  <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=DGCK81LNN&layout=compact&langs_count=8">
+</picture>
+<a href="https://wakatime.com/@DGCK81LNN"><picture>
+  <source media="(prefers-color-scheme:dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=DGCK81LNN&layout=compact&langs_count=12&display_format=percent&theme=github_dark_dimmed">
+  <img alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=DGCK81LNN&layout=compact&langs_count=12&display_format=percent">
+</picture></a>
