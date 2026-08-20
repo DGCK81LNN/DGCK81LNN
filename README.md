@@ -1,23 +1,20 @@
 # 👋 Hello, I’m DGCK81LNN
 
-  * **Frontend Enthusiast**
-   
+English | [中文](https://dgck81lnn.github.io)
+
+  * **Frontend Enthusiast**  
     Growing up with a father who is a software engineer, I was introduced to programming at an early age. [Visual Basic 6](https://en.wikipedia.org/wiki/Visual_Basic_(classic) "Visual Basic (classic) - Wikipedia") was my first language. I later taught myself JavaScript and have since developed a deep interest in frontend Web development.
 
-  * **Esolangs**
-
+  * **Esolangs**  
     Beyond solving real-world problems with code, I’m fascinated by [esolangs](https://en.wikipedia.org/wiki/Esoteric_programming_language "Esoteric programming language - Wikipedia"). Pushing the boundaries of programming into unexpected directions keeps me hooked.
 
-  * **ACG**
-
+  * **ACG**  
     Introduced to [*My Little Pony: Friendship Is Magic*](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic "My Little Pony: Friendship Is Magic - Wikipedia") by a middle school friend, I have since been somewhat interested in [ACG](https://en.wikipedia.org/wiki/ACG_(subculture) "ACG (subculture) - Wikipedia"). My avatar actually features my [ponysona](https://en.wikipedia.org/wiki/Ponysona "Ponysona - Wikipedia") Innocent Souls (but mimicking the "figure with hat" avatar which was popular in the Chinese rhythm games community).
 
-  * **Music & Rhythm Games**
-
+  * **Music & Rhythm Games**  
     I’ve studied a bit of instrumental music and vocals, and I have an OK sense of rhythm. My rhythm game journey spans from *Dancing Line* to *Malody*, *osu!*, *Phigros*, *A Dance of Fire and Ice*, and *Project Sekai*.
 
-  * **Conlangs, Shidinn**
-
+  * **Conlangs, Shidinn**  
     Who wouldn’t want to write a diary in a language no one else can read? That curiosity led me to discover [Lojban](https://en.wikipedia.org/wiki/Lojban "Lojban - Wikipedia") and [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona "Toki Pona - Wikipedia"). Through a friend’s recommendation, I got into [Shidinn](https://wiki.xdi8.top/wiki/Shidinn_language "Shidinn language - Shidinn Wiki") — [a folk linguist](https://wiki.xdi8.top/wiki/Huang_Quefei "Huang Quefei - Shidinn Wiki")'s attempt to reimagine Chinese in an alphabetic script, and I’m now an active member of its online community.
 
 ## About the Name
