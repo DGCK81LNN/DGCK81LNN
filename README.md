@@ -29,8 +29,8 @@
 ## [Coding Stats](https://github.com/stats-organization/github-stats-extended "Powered by GitHub Stats Extended")
 
 <picture>
-  <source media="(prefers-color-scheme:dark)" srcset="https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true&theme=github_dark_dimmed">
-  <img alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true">
+  <source media="(prefers-color-scheme:dark)" srcset="https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true&include_all_commits=true&theme=github_dark_dimmed">
+  <img alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=DGCK81LNN&show_icons=true&include_all_commits=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme:dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=DGCK81LNN&layout=compact&langs_count=8&theme=github_dark_dimmed">
