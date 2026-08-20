@@ -1,100 +1,30 @@
-# 👋 Hello, I'm DGCK81LNN, an ordinary Chinese student.
+# 👋 Hello, I’m DGCK81LNN
 
-## My interests are...
+  * **Frontend Enthusiast**
+   
+    Growing up with a father who is a software engineer, I was introduced to programming at an early age. [Visual Basic 6](https://en.wikipedia.org/wiki/Visual_Basic_(classic) "Visual Basic (classic) - Wikipedia") was my first language. I later taught myself JavaScript and have since developed a deep interest in frontend Web development.
 
-### Computer programming
+  * **Esolangs**
 
-My father being a software engineer, I began to learn coding at quite a young age.
+    Beyond solving real-world problems with code, I’m fascinated by [esolangs](https://en.wikipedia.org/wiki/Esoteric_programming_language "Esoteric programming language - Wikipedia"). Pushing the boundaries of programming into unexpected directions keeps me hooked.
 
-<details><summary>Details</summary>
+  * **ACG**
 
-  * Web front-end
+    Introduced to [*My Little Pony: Friendship Is Magic*](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic "My Little Pony: Friendship Is Magic - Wikipedia") by a middle school friend, I have since been somewhat interested in [ACG](https://en.wikipedia.org/wiki/ACG_(subculture) "ACG (subculture) - Wikipedia"). My avatar actually features my [ponysona](https://en.wikipedia.org/wiki/Ponysona "Ponysona - Wikipedia") Innocent Souls (but mimicking the "figure with hat" avatar which was popular in the Chinese rhythm games community).
 
-    I'm used to developing using TypeScript or just plain JavaScript. In development, I pay attention to accessibility
-    with mobile devices and screen readers (cos I often use my tools on mobile, ~~and sometimes use them without
-    looking at the screen~~).
+  * **Music & Rhythm Games**
 
-  * Python, Ruby, Node.js
+    I’ve studied a bit of instrumental music and vocals, and I have an OK sense of rhythm. My rhythm game journey spans from *Dancing Line* to *Malody*, *osu!*, *Phigros*, *A Dance of Fire and Ice*, and *Project Sekai*.
 
-    I enjoy solving problems that I encounter in my other hobbies via coding. I like Ruby because it seems to be an “elegant”
-    programming language, and I usually use it to experiment my ideas. I often use Node, too, due to its close relevance
-    to the Web. Python is not my favorite programming language but there are times when it is the only sensible choice.
+  * **Conlangs, Shidinn**
 
-  * [Esoteric programming languages][esolang]
+    Who wouldn’t want to write a diary in a language no one else can read? That curiosity led me to discover [Lojban](https://en.wikipedia.org/wiki/Lojban "Lojban - Wikipedia") and [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona "Toki Pona - Wikipedia"). Through a friend’s recommendation, I got into [Shidinn](https://wiki.xdi8.top/wiki/Shidinn_language "Shidinn language - Shidinn Wiki") — [a folk linguist](https://wiki.xdi8.top/wiki/Huang_Quefei "Huang Quefei - Shidinn Wiki")'s attempt to reimagine Chinese in an alphabetic script, and I’m now an active member of its online community.
 
-    Esolangs test the boundaries of the concept of "programming languages". [Brainfuck][brainf], [Befunge-93][befunge] and
-    [Wenyan][wenyan] are my favorite esolangs.
+## About the Name
 
-  * Unity
+“DGCK” is an acronym originating from a small group of childhood friends I formed in elementary school. We spent many happy times together building in Minecraft. The name traces back to an inside joke: in Chinese, “Minecraft” is sometimes colloquially called "麦块" (mài kuài), a play on 麦 (wheat) + 块 (block). Since hay bales are crafted from wheat in the game, we jokingly coined “大干草块” (Big Hay Bale) as our nickname for the game itself — which eventually became our group’s name. The acronym stuck after the original Chinese characters triggered chat filters (specifically 草 as it’s a common homophonic substitute for profanity).
 
-    I got to know about Unity from the [*Dancing Line*][dlwiki]<sup>[[zh]][dlzh]</sup> [fan labor][fanlabor] community
-    and have tried creating my own level. I failed though, because the currently existing open-source DLFM template
-    projects fail to satisfy my needs. I wish to create a easier-to-use template project with a more orderly and extensible
-    codebase than that of existing templates. Currently I'm not working on this very often, due to limited free time.
-
-</details>
-
-### [Music (rhythm) games][mug] (MUG) and MUG-like games
-
-Brought to the Chinese MUG community by the MUG-like game [*Dancing Line*][dlwiki]<sup>[[zh]][dlzh]</sup>, I later tried
-*Malody*, [*osu!*][osu], *Phigros*<sup>[[zh]][phigr]</sup>, and *A Dance of Fire and Ice*<sup>[[zh]][adofai]</sup>. I've
-also been playing *Project Sekai* since the launch of its **Chinese** server.
-
-### [*My Little Pony: Friendship Is Magic*][mlpfim]<sup>[[zh]][mlpfimzh]</sup>
-
-It was my friend Danny who recommended to me the show and I have watched mostly the entire show, from Season 1 to Season 9.
-I did skip some of the episodes and I haven't watched it a second time &mdash; I'll probably do that in the future.
-"Innocent Souls" is my [ponysona][ponysona] and I occasionally do some fan art; I don't think I'm very good at drawing though.
-
-### Other stuff
-
-  * I have played *Undertale* and *Deltarune* Chapter 1-2
-  * I've been playing *Genshin Impact* on the **Asia** server, join me! UID: 857179228
-  * I've been playing [*Alice In Cradle*][aic]<sup>[[zh]][aiczh]</sup> which is still in beta
-  * I (used to) play *Blue Archive* (**Chinese** server) (but hardly playing anymore recently)
-  * I'm a fan of [Neuro-sama][neurosama]<sup>[[twitch]][neurosamatwitch]</sup>, the AI VTuber.
-  * I have some basic understanding of the [constructed languages][conlang] [*Lojban*][lojban], [*Toki Pona*][tokipona] and
-    [*Shidinn*][shidinn]<sup>[[zh]][shidinnzh]</sup>.
-
-## Contact me / More about me
-
-  * You can reach me at **`triluolnn@163.com`**.
-
-  * Contact me via **Tencent QQ** if you have an account: 3470524928.
-
-  * [Join my Discord server](https://discord.gg/2QGq4hvcK4) where you can reach me via a message relaying bot in the `#shidinn` channel.
-
-  * Those who understand Chinese can subscribe to [my channel on Bilibili][mybili] where I occasionally post videos
-    and/or stream.
-
-Don't hesitate to get in touch with me for anything you have in mind, even just a chat if you like! 🤝
-
-[esolang]: https://en.wikipedia.org/wiki/Esoteric_programming_language
-[brainf]: https://en.wikipedia.org/wiki/Brainfuck
-[befunge]: https://en.wikipedia.org/wiki/Befunge
-[wenyan]: https://github.com/wenyan-lang/wenyan
-[dlwiki]: https://dancingline.fandom.com/wiki/Dancing_Line_Wiki
-[dlzh]: https://zh.moegirl.org.cn/跳舞的线 "Information in Chinese"
-[fanlabor]: https://en.wikipedia.org/wiki/Fan_labor
-[mug]: https://en.wikipedia.org/wiki/Music_video_game
-[osu]: https://en.wikipedia.org/wiki/Osu!
-[phigr]: https://zh.moegirl.org.cn/Phigros "Information in Chinese"
-[adofai]: https://zh.moegirl.org.cn/冰与火之舞 "Information in Chinese"
-[mlpfim]: https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic
-[mlpfimzh]: https://zh.moegirl.org.cn/彩虹小马 "Information in Chinese"
-[ponytown]: https://pony.town/about
-[ponysona]: https://en.wikifur.com/wiki/Ponysona
-[aic]: https://twitter.com/Alice_in_Cradle "Official Twitter account (English and Japanese)"
-[aiczh]: https://zh.moegirl.org.cn/Alice_In_Cradle "Information in Chinese"
-[neurosama]: https://en.wikipedia.org/wiki/Neuro-sama
-[neurosamatwitch]: https://www.twitch.tv/vedal987
-[conlang]: https://en.wikipedia.org/wiki/Constructed_language
-[lojban]: https://en.wikipedia.org/wiki/Lojban
-[tokipona]: https://en.wikipedia.org/wiki/Toki_Pona
-[shidinn]: https://wiki.xdi8.top/wiki/Shidinn_language
-[shidinnzh]: https://wiki.xdi8.top/wiki/%E5%B8%8C%E9%A1%B6%E8%AF%AD "Information in Chinese"
-[mytwitter]: https://twitter.com/DGCK81LNN
-[mybili]: https://space.bilibili.com/328066747
+"81" is my *hexadecimal code*, and "LNN" is my *letter code*. I used to assign these kinds of codes to friends in my social circle. ***LNN* is what I go by — spare the full string**.
 
 ## [Coding Stats](https://github.com/stats-organization/github-stats-extended "Powered by GitHub Stats Extended")
 
