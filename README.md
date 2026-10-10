@@ -1,4 +1,4 @@
-# 👋 Hello, I’m DGCK81LNN
+# 👋 Hello, I’m *LNN*
 
 English | [中文](https://dgck81lnn.github.io)
 
